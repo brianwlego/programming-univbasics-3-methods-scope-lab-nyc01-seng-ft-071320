@@ -9,6 +9,6 @@ def toadstool
 end
 
 def link 
-  phrase3 = 
-  puts "It's Dangerous To Go Alone! Take This."
-end
+  phrase3 = "It's Dangerous To Go Alone! Take This."
+  puts phrase3
+end 
